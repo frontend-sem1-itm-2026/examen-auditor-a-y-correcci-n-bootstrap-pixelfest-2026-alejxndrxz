@@ -39,11 +39,23 @@ Antes de modificar el código, revisa el archivo **index.html** y detecta proble
 Debes identificar **al menos 6 problemas** relacionados con:
 
 - UX (claridad, navegación, acciones)
+No cuenta con una fluidez al navegar.
+La navegación entre secciones no es clara ni intuitiva.
 - Responsive design
+Cards no responsivos.
+No cuenta con breakpoints para adaptar el diseño en diferentes tamaños de pantalla.
 - Uso incorrecto de Bootstrap
+Cards no responsivos debido al uso incorrecto de clases de Bootstrap.
+Uso incorrecto del sistema de grid o clases responsive de Bootstrap.
 - Jerarquía visual
+Formato de presentación de los cards incorrecto o no apto.
+No existe una armonía entre los elementos de la página
 - Layout o grid mal aplicado
+Espacio exagerado en el layout
+Los cards de boletos y contacto no siguen la misma estructura que los cards.
 - Links o navegación incorrecta
+Los botones de los cards “Ver más” no llevan a nada.
+Al nav var le falta agregar contacto lo cual limita la navegación al usuario.
 
 Registra los hallazgos en el archivo:
 AUDITORIA.md
